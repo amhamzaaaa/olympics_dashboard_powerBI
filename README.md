@@ -33,8 +33,6 @@ This project presents an **interactive Superstore Sales Dashboard** built in Pow
 - Clear comparison of **sales vs. profit** across different views.  
 - Clean and professional UI design.  
 
-## Screenshots
+## 🖼️ Preview  
 ![screenshot](dashboard.png)
 ![screenshot](data.png)
-
-## 📂 Repository Structure
